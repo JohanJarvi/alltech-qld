@@ -3,19 +3,19 @@ title: Home
 sidebar:
   entries:
     - title: Welcome
-      url: '#intro'
+      url: "#intro"
       is_primary: true
     - title: Who we are
-      url: '#one'
+      url: "#one"
       is_primary: false
     - title: What we do
-      url: '#two'
+      url: "#two"
       is_primary: false
     - title: Get in touch
-      url: '#three'
+      url: "#three"
       is_primary: false
 sections:
-  - title: Hyperspace
+  - title: Alltech Electrical
     subtitle: |-
       Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
       col accumsan est arcu donec sed Eleifend Integer.
@@ -23,7 +23,7 @@ sections:
     background_style: style1
     actions:
       - label: Learn more
-        url: '#one'
+        url: "#one"
         is_scrolly: true
         is_primary: false
     component: Intro
@@ -95,7 +95,7 @@ sections:
           USA
       - title: Email
         text: user@Hyperspace.tld
-        url: '#'
+        url: "#"
       - title: Phone
         text: (000) 000-0000
     social:
@@ -103,19 +103,19 @@ sections:
       social_icons:
         - title: Twitter
           icon: fa-twitter
-          url: '#'
+          url: "#"
         - title: Facebook
           icon: fa-facebook
-          url: '#'
+          url: "#"
         - title: GitHub
           icon: fa-github
-          url: '#'
+          url: "#"
         - title: Instagram
           icon: fa-instagram
-          url: '#'
+          url: "#"
         - title: LinkedIn
           icon: fa-linkedin
-          url: '#'
+          url: "#"
     component: Contact
     type: contact
 menus:
