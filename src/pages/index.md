@@ -15,10 +15,11 @@ sidebar:
       url: "#three"
       is_primary: false
 sections:
-  - title: Alltech Electrical
+  - title: ""
     subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+      **At Alltech Electrical we aspire for excellence while simultaneously ensuring that we deliver everything that our customers desire and more; all the while meeting every deadline.**
+
+      **We take pride in customer satisfaction!**
     section_id: intro
     background_style: style1
     actions:
