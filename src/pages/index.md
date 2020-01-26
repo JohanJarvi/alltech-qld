@@ -80,43 +80,17 @@ sections:
         is_primary: false
     component: Features
     type: features
-  - title: Get in touch
+  - title: Contact Us
     text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+      Got a question? Send us a message and we'll responde as soon as possible.
     section_id: three
     background_style: style1
     contact_list:
-      - title: Address
-        text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
       - title: Email
-        text: user@Hyperspace.tld
-        url: "#"
+        text: alltechqld@gmail.com
+        url: "mailto:alltechqld@gmail.com"
       - title: Phone
-        text: (000) 000-0000
-    social:
-      title: Social
-      social_icons:
-        - title: Twitter
-          icon: fa-twitter
-          url: "#"
-        - title: Facebook
-          icon: fa-facebook
-          url: "#"
-        - title: GitHub
-          icon: fa-github
-          url: "#"
-        - title: Instagram
-          icon: fa-instagram
-          url: "#"
-        - title: LinkedIn
-          icon: fa-linkedin
-          url: "#"
+        text: 0497 990 039
     component: Contact
     type: contact
 menus:
