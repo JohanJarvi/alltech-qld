@@ -5,20 +5,18 @@ sidebar:
     - title: Welcome
       url: "#intro"
       is_primary: true
-    - title: Who we are
+    - title: What we do
       url: "#one"
       is_primary: false
-    - title: What we do
+    - title: Contact Us
       url: "#two"
       is_primary: false
-    - title: Get in touch
-      url: "#three"
-      is_primary: false
 sections:
-  - title: Alltech Electrical
+  - title: ""
     subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+      **At Alltech Electrical we aspire for excellence while simultaneously ensuring that we deliver everything that our customers desire and more; all the while meeting every deadline.**
+
+      **We take pride in customer satisfaction!**
     section_id: intro
     background_style: style1
     actions:
@@ -28,19 +26,14 @@ sections:
         is_primary: false
     component: Intro
     type: intro
-  - title: Spotlights Section
-    section_id: one
-    background_style: style2
-    component: Spotlights
-    type: spotlights
   - title: What we do
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    section_id: two
-    background_style: style3
+    section_id: one
+    background_style: style1-alt
     features_list:
       - title: Lorem ipsum amet
         text: >-
@@ -74,48 +67,22 @@ sections:
         icon: fa-diamond
     actions:
       - label: Learn more
-        url: /generic
+        url: /about-us
         is_scrolly: false
         is_primary: false
     component: Features
     type: features
-  - title: Get in touch
+  - title: Contact Us
     text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
-    section_id: three
+      Got a question? Send us a message and we'll responde as soon as possible.
+    section_id: two
     background_style: style1
     contact_list:
-      - title: Address
-        text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
       - title: Email
-        text: user@Hyperspace.tld
-        url: "#"
+        text: alltechqld@gmail.com
+        url: "mailto:alltechqld@gmail.com"
       - title: Phone
-        text: (000) 000-0000
-    social:
-      title: Social
-      social_icons:
-        - title: Twitter
-          icon: fa-twitter
-          url: "#"
-        - title: Facebook
-          icon: fa-facebook
-          url: "#"
-        - title: GitHub
-          icon: fa-github
-          url: "#"
-        - title: Instagram
-          icon: fa-instagram
-          url: "#"
-        - title: LinkedIn
-          icon: fa-linkedin
-          url: "#"
+        text: 0497 990 039
     component: Contact
     type: contact
 menus:
