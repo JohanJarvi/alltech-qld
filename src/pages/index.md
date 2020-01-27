@@ -5,14 +5,11 @@ sidebar:
     - title: Welcome
       url: "#intro"
       is_primary: true
-    - title: Who we are
+    - title: What we do
       url: "#one"
       is_primary: false
-    - title: What we do
+    - title: Contact Us
       url: "#two"
-      is_primary: false
-    - title: Get in touch
-      url: "#three"
       is_primary: false
 sections:
   - title: ""
@@ -29,19 +26,14 @@ sections:
         is_primary: false
     component: Intro
     type: intro
-  - title: Spotlights Section
-    section_id: one
-    background_style: style2
-    component: Spotlights
-    type: spotlights
   - title: What we do
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    section_id: two
-    background_style: style3
+    section_id: one
+    background_style: style1-alt
     features_list:
       - title: Lorem ipsum amet
         text: >-
@@ -75,7 +67,7 @@ sections:
         icon: fa-diamond
     actions:
       - label: Learn more
-        url: /generic
+        url: /about-us
         is_scrolly: false
         is_primary: false
     component: Features
@@ -83,7 +75,7 @@ sections:
   - title: Contact Us
     text: >-
       Got a question? Send us a message and we'll responde as soon as possible.
-    section_id: three
+    section_id: two
     background_style: style1
     contact_list:
       - title: Email
