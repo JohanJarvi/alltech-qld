@@ -1,7 +1,10 @@
 landing_style: style1-alt
-alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+alt_style: style1
+copyright: "&copy; Hyperspace. All rights reserved."
 links:
   - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+    url: "https://www.stackbit.com"
+    new_window: true
+  - text: Created by Johan Jarvi at Alltech Electrical & Engineering
+    url: "https://au.linkedin.com/in/johan-jarvi-38784b124"
     new_window: true
