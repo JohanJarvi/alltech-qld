@@ -28,43 +28,34 @@ sections:
     type: intro
   - title: What we do
     subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+      With a large amount of experience in industrial automation and fast moving consumer goods, domestic wiring and home automation, smoke alarm testing and safety switch compliance testing as well as general electrical maintenance work both on a domestic and industrial scale; Alltech Electrical can do it all!
     section_id: one
     background_style: style1-alt
     features_list:
-      - title: Lorem ipsum amet
+      - title: Domestic
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-code
-      - title: Aliquam sed nullam
+          Stuff about domestic.
+        icon: fa-plug
+      - title: Industrial
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-lock
-      - title: Sed erat ullam corper
+          Stuff about industrial.
+        icon: fa-bolt
+      - title: Smoke Alarms and Fire Safety
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-cog
-      - title: Veroeros quis lorem
+          Stuff about smoke alarms.
+        icon: fa-fire-extinguisher
+      - title: Safety Switches & Testing
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-desktop
-      - title: Urna quis bibendum
+          Stuff about Safety Switches and Testing.
+        icon: fa-random
+      - title: Maintenance
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+          Stuff about maintenance.
         icon: fa-chain
-      - title: Aliquam urna dapibus
+      - title: Extra
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-diamond
+          Stuff about something else?
+        icon: fa-exclamation
     actions:
       - label: Learn more
         url: /about-us
