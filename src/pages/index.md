@@ -14,7 +14,7 @@ sidebar:
 sections:
   - title: ""
     subtitle: |-
-      **At Alltech Electrical we aspire for excellence while simultaneously ensuring that we deliver everything that our customers desire and more; all the while meeting every deadline.**
+      **For Alltech Electrical no job is too small or too big. With more than 30 years experience in the trade we are ready to take on any challenge and deliver the best possible results on time and on budget.**
 
       **We take pride in customer satisfaction!**
     section_id: intro
