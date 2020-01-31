@@ -28,33 +28,39 @@ sections:
     type: intro
   - title: What we do
     subtitle: >-
-      With a large amount of experience in industrial automation and fast moving consumer goods, domestic wiring and home automation, smoke alarm testing and safety switch compliance testing as well as general electrical maintenance work both on a domestic and industrial scale; Alltech Electrical can do it all!
+      With a large amount of experience in industrial automation and fast moving consumer goods (FMCG), domestic wiring and home automation, smoke alarm testing and safety switch compliance testing as well as general electrical maintenance work both on a domestic and industrial scale; Alltech Electrical can do it all!
     section_id: one
     background_style: style1-alt
     features_list:
       - title: Domestic
         text: >-
-          Stuff about domestic.
+          When it comes to housing Alltech has got you covered. Whether you are building a new home or need something upgraded we can do it! 
+
+
+          Maybe even some home automation would be nice? We can do that too!
         icon: fa-plug
       - title: Industrial
         text: >-
-          Stuff about industrial.
+          With experienced electricians with roots in the steel industry and with great deals of experience in FMCG, Alltech Electrical has got your industrial needs covered!
         icon: fa-bolt
-      - title: Smoke Alarms and Fire Safety
+      - title: Smoke Alarms
         text: >-
-          Stuff about smoke alarms.
-        icon: fa-fire-extinguisher
+          We can also service and/or replace smoke alarms of any kind or brands to keep your home safe and provide you with peace of mind.
+        icon: fa-exclamation-triangle
       - title: Safety Switches & Testing
         text: >-
-          Stuff about Safety Switches and Testing.
+          Alltech can also service external and internal safety switches to ensure that your home is safe and that all your appliances continue to function accordingly.
         icon: fa-random
       - title: Maintenance
         text: >-
-          Stuff about maintenance.
+          All this experience also means that we are particularly well equipped to handle any forms of maintenance; domestic and industrial!
         icon: fa-chain
-      - title: Extra
+      - title: Compliance Certified
         text: >-
-          Stuff about something else?
+          All work will be compliance certified!
+
+
+          Read more on the about us page or contact us if you have any enquiries.
         icon: fa-exclamation
     actions:
       - label: Learn more
