@@ -14,7 +14,12 @@ sidebar:
 sections:
   - title: ""
     subtitle: |-
-      **At Alltech Electrical we aspire for excellence while simultaneously ensuring that we deliver everything that our customers desire and more; all the while meeting every deadline.**
+      **For Alltech Electrical no job is too small or too big. 
+      With more than 30 years experience in the trade we are ready to take on any challenge and deliver the best possible results on time and on budget.**
+
+
+      _Based on the Sunshine Coast, QLD_
+
 
       **We take pride in customer satisfaction!**
     section_id: intro
@@ -28,43 +33,40 @@ sections:
     type: intro
   - title: What we do
     subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+      With a large amount of experience in industrial automation and fast moving consumer goods (FMCG), domestic wiring and home automation, smoke alarm testing and safety switch compliance testing as well as general electrical maintenance work both on a domestic and industrial scale; Alltech Electrical can do it all!
     section_id: one
     background_style: style1-alt
     features_list:
-      - title: Lorem ipsum amet
+      - title: Domestic
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-code
-      - title: Aliquam sed nullam
+          When it comes to housing Alltech has got you covered. Whether you are building a new home or need something upgraded we can do it! 
+
+
+          Maybe even some home automation would be nice? We can do that too!
+        icon: fa-plug
+      - title: Industrial
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-lock
-      - title: Sed erat ullam corper
+          With experienced electricians with roots in the steel industry and with great deals of experience in FMCG, Alltech Electrical has got your industrial needs covered!
+        icon: fa-bolt
+      - title: Smoke Alarms
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-cog
-      - title: Veroeros quis lorem
+          We can also service and/or replace smoke alarms of any kind or brands to keep your home safe and provide you with peace of mind.
+        icon: fa-exclamation-triangle
+      - title: Safety Switches & Testing
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-desktop
-      - title: Urna quis bibendum
+          Alltech can also service external and internal safety switches to ensure that your home is safe and that all your appliances continue to function accordingly.
+        icon: fa-random
+      - title: Maintenance
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+          All this experience also means that we are particularly well equipped to handle any forms of maintenance; domestic and industrial!
         icon: fa-chain
-      - title: Aliquam urna dapibus
+      - title: Compliance Certified
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-diamond
+          All work will be compliance certified!
+
+
+          Read more on the about us page or contact us if you have any enquiries.
+        icon: fa-exclamation
     actions:
       - label: Learn more
         url: /about-us
@@ -74,7 +76,7 @@ sections:
     type: features
   - title: Contact Us
     text: >-
-      Got a question? Send us a message and we'll responde as soon as possible.
+      Got a question? Send us a message and we'll respond as soon as possible.
     section_id: two
     background_style: style1
     contact_list:
