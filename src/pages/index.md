@@ -14,7 +14,12 @@ sidebar:
 sections:
   - title: ""
     subtitle: |-
-      **For Alltech Electrical no job is too small or too big. With more than 30 years experience in the trade we are ready to take on any challenge and deliver the best possible results on time and on budget.**
+      **For Alltech Electrical no job is too small or too big. 
+      With more than 30 years experience in the trade we are ready to take on any challenge and deliver the best possible results on time and on budget.**
+
+
+      _Based on the Sunshine Coast, QLD_
+
 
       **We take pride in customer satisfaction!**
     section_id: intro
@@ -71,7 +76,7 @@ sections:
     type: features
   - title: Contact Us
     text: >-
-      Got a question? Send us a message and we'll responde as soon as possible.
+      Got a question? Send us a message and we'll respond as soon as possible.
     section_id: two
     background_style: style1
     contact_list:
