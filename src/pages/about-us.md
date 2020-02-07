@@ -8,7 +8,7 @@ Alltech Electrical Pty Ltd is a family owned business operating on the Sunshine 
 At Alltech Electrical we believe that there is no job too small or too big.
 That means that no matter what your needs are, do not hesitate to contact us for a quote.
 
-Our tradies are some of the most experience in the eletrical trade and it is likely that whatever your problem may be,
+Our tradies are some of the most experienced in the eletrical trade and it is likely that whatever your problem may be,
 our tradies has either encountered it before or can figure out a way to solve your problem efficiently and elegantly.
 
 Alltech Electrical has more than 30 years of experience in the field, working in a wide range of projects!
