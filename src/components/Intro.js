@@ -15,7 +15,8 @@ export default class Intro extends React.Component {
         }
       >
         <div className="inner" style={{ background: "#4b514c", opacity: 0.9 }}>
-          <h1>{_.get(this.props, "section.title")}</h1>
+          {/* <h1>{_.get(this.props, "section.title")}</h1> */}
+          <img src="/images/AlltechLogo2019.png" />
           {markdownify(_.get(this.props, "section.subtitle"))}
           {_.get(this.props, "section.actions") && (
             <ul className="actions">
