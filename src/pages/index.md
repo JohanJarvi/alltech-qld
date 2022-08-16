@@ -18,8 +18,9 @@ sections:
       With more than 30 years experience in the trade we are ready to take on any challenge and deliver the best possible results on time and on budget.**
 
 
-      _Based on the Sunshine Coast, QLD_
+      _Based in Eumundi, Sunshine Coast, QLD_
 
+      Contact us via email at **alltechqld@gmail.com** or call us on **0497 990 039**
 
       **We take pride in customer satisfaction!**
     section_id: intro

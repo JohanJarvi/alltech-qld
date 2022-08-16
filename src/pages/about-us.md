@@ -3,7 +3,7 @@ title: About Us
 template: page
 ---
 
-Alltech Electrical Pty Ltd is a family owned business operating on the Sunshine Coast, Queensland.
+Alltech Electrical Pty Ltd is a family owned business operating from Eumundi, Sunshine Coast, Queensland.
 
 At Alltech Electrical we believe that there is no job too small or too big.
 That means that no matter what your needs are, do not hesitate to contact us for a quote.
