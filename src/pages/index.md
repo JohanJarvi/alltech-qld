@@ -1,28 +1,15 @@
 ---
 title: Home
-sidebar:
-  entries:
-    - title: Welcome
-      url: "#intro"
-      is_primary: true
-    - title: What we do
-      url: "#one"
-      is_primary: false
-    - title: Contact Us
-      url: "#two"
-      is_primary: false
 sections:
-  - title: ""
+  - title: "Alltech Electrical"
     subtitle: |-
-      **For Alltech Electrical no job is too small or too big. 
-      With more than 30 years experience in the trade we are ready to take on any challenge and deliver the best possible results on time and on budget.**
-
+      **At Alltech Electrical we have over 30 years of experience in industrial, commercial and domestic electrical work**
 
       _Based in Eumundi, Sunshine Coast, QLD_
 
       Contact us via email at **alltechqld@gmail.com** or call us on **0497 990 039**
 
-      **We take pride in customer satisfaction!**
+      **Looking forward to your business**
     section_id: intro
     background_style: style1
     actions:
