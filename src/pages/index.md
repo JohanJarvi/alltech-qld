@@ -3,7 +3,7 @@ title: Home
 sections:
   - title: "Alltech Electrical"
     subtitle: |-
-      **At Alltech Electrical we have over 30 years of experience in industrial, commercial and domestic electrical work**
+      **30 years of experience in industrial, commercial and domestic electrical work**
 
       _Based in Eumundi, Sunshine Coast, QLD_
 
